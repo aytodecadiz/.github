@@ -1,4 +1,4 @@
-![Logo Ayuntamiento de Cádiz](https://edusi.cadiz.es/themes/custom/edusi_cadiz/logo.svg)
+![Logo Ayuntamiento de Cádiz](https://raw.githubusercontent.com/aytodecadiz/.github/main/profile/logo.svg)
 
 <!--
 
